@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thahngahy.diegoacarmona.com.ve/sitemap.xml
